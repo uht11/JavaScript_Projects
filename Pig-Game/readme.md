@@ -1,0 +1,1 @@
+This is a mini 2 player game the goal is to reach 100 points, everytime you roll a zero you lose your current turn score, and the other player gets to roll. Goal is to get as high as you can on each turn and hold your score which will add up the scores till someone gets 100. First to 100 score wins!!
