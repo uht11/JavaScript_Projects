@@ -1,5 +1,5 @@
 # My JavaScript Projects
-This repository contains a collection of my JavaScript projects. The projects cover a variety of topics, including:
+This repository contains a collection of my JavaScript projects that i completed while learning modern javascripts. The projects cover a variety of topics and difficulties , including:
 
 Web development: I have created several web applications using JavaScript. 
 
